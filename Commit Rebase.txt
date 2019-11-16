@@ -1,0 +1,1 @@
+Cambios introducidos en la rama rebase. Para simplificar se usa otro archivo y no tener conflictos en la integración.
